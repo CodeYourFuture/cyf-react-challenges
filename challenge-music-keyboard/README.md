@@ -34,7 +34,7 @@ In addition, you'll learn...
 - If you haven't created your app yet, use `create-react-app` to create the skeleton of the app.
 - Check the app works, by running `npm start` from your app's root directory.
 - **Use the following command to install the tones library:
-  `npm install -s tones`**
+  `npm install -s tone`**
 - Check the app STILL works, with `npm start`
 
 ### Optional - Advanced:
