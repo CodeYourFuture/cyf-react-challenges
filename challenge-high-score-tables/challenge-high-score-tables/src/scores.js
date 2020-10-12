@@ -31,4 +31,4 @@ let allCountryScores = [
     },
   ];
   
-  export default allCountryScores;
+  export  default allCountryScores;
